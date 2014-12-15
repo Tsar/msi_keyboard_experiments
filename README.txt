@@ -1,0 +1,2 @@
+Dependencies:
+ * libhidapi-dev
